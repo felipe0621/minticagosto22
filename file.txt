@@ -1,1 +1,1 @@
-Equipo 1  ciclo 3  mision tic 2022
+modificacion al archivo file.txt en la rama2
